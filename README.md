@@ -6,7 +6,7 @@ Atualmente eu estudo:
 - 🐍 Python
 - ⚙️ C++
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
+
 > 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
 
 
@@ -24,3 +24,7 @@ Atualmente eu estudo:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://pt.wikipedia.org/wiki/C%2B%2B)
 [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://pt.wikipedia.org/wiki/Linux)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://pt.wikipedia.org/wiki/Microsoft_Windows)
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rabello-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
