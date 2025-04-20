@@ -7,6 +7,7 @@ Atualmente eu estudo:
 - ⚙️ C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
+> 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
 
 
 ## Redes sociais
