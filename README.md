@@ -5,6 +5,7 @@ Atualmente eu estudo:
 - 💻 Ensino Técnico em Desenvolvimento de Sistemas 
 - 🐍 Python
 - ⚙️ C++
+- 🧸Golang
 
 
 > 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
