@@ -7,7 +7,8 @@ Atualmente eu estudo:
 - ⚙️ C++
 - 🧸Golang
 
-
+Com foco na Linguagem GO (Golang) para a criação de microsserviços, servidores web, ferramentas de linha de comando CLI, infraestrutura e serviços back-end com alta performace e concorência
+  
 > 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
 
 
