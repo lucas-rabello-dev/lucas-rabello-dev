@@ -3,11 +3,13 @@ Meu nome é Lucas Rabello e por enquanto eu estudo para me tornar um dev back-en
 
 Atualmente eu estudo:
 - 💻 Itinerário Técnico em Desenvolvimento de Sistemas 
-- 🐍 Python
-- ⚙️ C++
 - 🧸Golang
 
-Com foco na Linguagem GO (Golang) para a criação de microsserviços, servidores web, ferramentas de linha de comando CLI, infraestrutura e serviços back-end com alta performace e concorência
+Também conheço:
+- 🐍 Python
+- ⚙️ C++
+
+### Foco na Linguagem GO (Golang) para a criação de microsserviços, servidores web, ferramentas de linha de comando CLI, infraestrutura e serviços back-end com alta performace e concorência.
   
 > 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
 
@@ -22,7 +24,7 @@ Com foco na Linguagem GO (Golang) para a criação de microsserviços, servidore
 [![LeetCode](https://img.shields.io/badge/LeetCode-Lucas--Rabello--Dev-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/lucas-rabello-dev/)
 
 
-## Tecnologias e ferramentas que eu uso:
+## Tecnologias e ferramentas que eu uso/conheço:
 <hr>
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
