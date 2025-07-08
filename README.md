@@ -4,7 +4,6 @@ Meu nome é Lucas Rabello e por enquanto eu estudo para me tornar um dev back-en
 Atualmente eu estudo:
 - 💻 Itinerário Técnico em Desenvolvimento de Sistemas 
 - 🧸Golang
-- 🐍 Python
 
 
 ### Foco na Linguagem GO (Golang) para a criação de microsserviços, servidores web, ferramentas de linha de comando CLI, infraestrutura e serviços back-end com alta performace e concorência.
@@ -28,7 +27,7 @@ Atualmente eu estudo:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,go,py,sqlite,vscode,windows,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,go,sqlite,vscode,windows,devto)](https://skillicons.dev)
 
 <hr>
 
