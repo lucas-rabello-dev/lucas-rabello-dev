@@ -15,7 +15,7 @@ Atualmente eu estudo:
 <hr>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-rabello-42b23a339/) 
+<!-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-rabello-42b23a339/) -->
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lcs.carvalho_/?next=%2F) 
 
 ## LeetCode:
@@ -27,7 +27,7 @@ Atualmente eu estudo:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,go,sqlite,vscode,windows,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,go,sqlite,vscode,windows,devto,cpp)](https://skillicons.dev)
 
 <hr>
 
