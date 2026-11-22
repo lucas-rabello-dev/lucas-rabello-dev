@@ -1,6 +1,6 @@
 <div align="center">
   
-## Lucas Rabello (t3cl4do820)
+## Lucas Rabello
 
 </div>
 
